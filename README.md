@@ -48,12 +48,6 @@ Each project explores fundamental probability and data analysis concepts using P
 
 ---
 
-### 📌 How to Run
-1. Clone this repository  
-2. Open the notebook in **Jupyter** or **Google Colab**  
-3. Run all cells to reproduce the analysis  
-
----
 
 ## 🚪 Assignment 2 — The Monty Hall Problem Simulation
 
@@ -104,7 +98,3 @@ Each project explores fundamental probability and data analysis concepts using P
 
 ---
 
-### 📌 How to Run
-1. Run the Jupyter Notebook or Python script:  
-   ```bash
-   python monty_hall_simulation.py
